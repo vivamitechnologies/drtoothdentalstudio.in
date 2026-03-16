@@ -1,0 +1,7 @@
+mkdir img
+mkdir css
+mkdir js
+mkdir lib
+git add .
+git commit -m "added folders"
+git push
